@@ -3,3 +3,5 @@
 This repository is for DSA practise mainly for code optimisation.
 
 All other techniques for optimizing the code will be discussed too.
+
+To do : add something about system design
